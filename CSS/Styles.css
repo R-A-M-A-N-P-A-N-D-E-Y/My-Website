@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Indie Flower', cursive;
+}
+
+h1 {
+    margin-top: 0;
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+h2 {
+    font-family: 'Kalam', cursive;
+}
+
+h3 {
+    font-family: 'Kalam', cursive;
+}
+
+.top-container {
+    background-color: #FFDEB4;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.profile {
+    padding-top: 50px;
+}
